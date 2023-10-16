@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dieta fácil 
+
+## Um site que utiliza de métodos da nutrição para estimar genericamente uma dieta a partir de alguns dados antrométricos <br/>
+
+Inserir os dados <br/>
+![image](https://github.com/yokotaerik/dieta_facil/assets/142221764/70bb6a8d-ada1-44cd-935e-ecf81fc6fbe1) <br/>
+
+Resultados <br/>
+![image](https://github.com/yokotaerik/dieta_facil/assets/142221764/68009e4c-9bad-4e8b-9200-bc62d8bc3c7e)
+
 
 ## Getting Started
 
