@@ -1,7 +1,15 @@
 # Dieta fácil 
 
+
 ## Sobre o projeto: <br/>
 Um site que utiliza de métodos da nutrição para estimar uma dieta a partir de alguns dados antrométricos <br/>
+
+## Tecnologias: <br/>
+NextJS
+
+## Motivação: <br/> 
+
+Melhorar minha compreensão de como o NextJS e React funcionam, aliando um tema que gosto com uma tecnologia que desejo aprender.
 
 ## Telas: <br/>
 Inserir os dados <br/>
