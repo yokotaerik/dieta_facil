@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-black
+}
+
+.labelInput {
+  @apply block  tracking-wide text-white font-bold mb-2
+}
+
+.input {
+  @apply w-full bg-green-950 text-white border border-gray-200 rounded py-3 px-4 mb-3
+}
+
+.resulParagraph {
+  @apply  tracking-wide text-white text-lg font-bold mb-5 
+}
+
+select {
+  @apply w-full bg-green-950 border border-gray-200 text-white py-3 px-4 pr-8 mb-3 rounded 
+   tracking-wide 
+}
