@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto: <br/>
-Um site que utiliza de métodos da nutrição para estimar uma dieta a partir de alguns dados antrométricos <br/>
+Um site que utiliza de métodos da nutrição para estimar uma orientação de calorias e macronitruiente a partir de alguns dados antrométricos para nutricionistas estruturarem uma dieta <br/>
 
 ## Tecnologias: <br/>
 NextJS
